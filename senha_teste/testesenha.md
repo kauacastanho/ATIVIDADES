@@ -1,6 +1,7 @@
 SENHA TESTE
 
-'''
+''''
+
     letras_maiusc = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
     letras_minusc = "abcdefghijklmnopqrstuvwxyz"
@@ -96,4 +97,4 @@ SENHA TESTE
                 if senha == 'cC2':
                     print("SENHA CORRETA")
                     exit()
-'''
+''''
