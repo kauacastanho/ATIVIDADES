@@ -7,4 +7,3 @@
 
 [link para as atividades do dia 20/05/2024](2024_05_20/notes.md)
 
-[senha teste](senha_teste/testesenha.md)
