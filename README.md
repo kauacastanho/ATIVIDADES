@@ -12,3 +12,8 @@
 
 [link para as atividades do dia 27/05/2024](2024_05_27/notes.md)
 
+<br>
+<br>
+
+[link para as atividades do dia 28/05/2024](2024_05_28/notes.md)
+ 
